@@ -1,0 +1,19 @@
+{
+  "name": "enchant-action",
+  "version": "1.0.0",
+  "description": ",-----.,--.                  ,--. ,---.   ,--.,------.  ,------.     '  .--./|  | ,---. ,--.,--. ,-|  || o   \\  |  ||  .-.  \\ |  .---'     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \\  :|  `--,      '  '--'\\|  |' '-' ''  ''  '\\ `-' | .'  /   |  ||  '--'  /|  `---.      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'     -----------------------------------------------------------------",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Ippey/enchant-action.git"
+  },
+  "author": "Ippei Sumida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ippey/enchant-action/issues"
+  },
+  "homepage": "https://github.com/Ippey/enchant-action#readme"
+}
