@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Ippey/enchant-action/issues"
   },
-  "homepage": "https://github.com/Ippey/enchant-action#readme"
+  "homepage": "https://github.com/Ippey/enchant-action#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jade": "^1.1.0"
+  }
 }
